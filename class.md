@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: George Dimousis  
+- Certification: Git and Gihub 
 
 ## Instructions
 Please replace the placeholders with your details:
